@@ -35,3 +35,5 @@
 - perform a `git push`
 - in the authentication pop up choose **Token**
 - add your token as the password
+- In the GitHub web interface edit one of your files and commit the changes
+- on yout CLI use `git pull` to retrieve the change
