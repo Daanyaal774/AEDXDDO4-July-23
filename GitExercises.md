@@ -24,3 +24,14 @@
 - check the new directory has been created with `ls`
 - change into the new repository directory `cd <reponame>`
 - Edit the README, stage and commit the changes
+
+## Git Pushing and Pulling
+
+- Create a 'classic' PAT for your repo 
+  - <https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token>
+- make sure you choose the scope 'repo'
+- copy the PAT to your local workstation
+- on the CLI check your repo is clean with `git status`
+- perform a `git push`
+- in the authentication pop up choose **Token**
+- add your token as the password
