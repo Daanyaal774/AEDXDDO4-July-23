@@ -29,7 +29,7 @@
 
 - Create a 'classic' PAT for your repo 
   - <https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token>
-- make sure you choose the scope 'repo'
+  - make sure you choose the scope 'repo'
 - copy the PAT to your local workstation
 - on the CLI check your repo is clean with `git status`
 - perform a `git push`
