@@ -19,3 +19,7 @@
 - Give the repo a description
 - tick the box to create a README
 - copy the clone https url from the green box
+- on the CLI change back to your users home directory with `cd`
+- run `git clone <url>`
+- change into the new repository directory `cd <reponame>`
+- Edit the README, stage and commit the changes
